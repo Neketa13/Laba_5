@@ -1,0 +1,16 @@
+http://www.zcontest.ru -- OK
+http://zcontest.ru -- OK
+http://aaa.ddd.zcontest.ru -- OK
+http://zcontest.com/ -- OK
+http://zcontest.c-om/ -- OK
+http://-zcontest.com/ -- ERROR
+http://zco_ntest.com/ -- ERROR
+http://zcontest_.com/ -- ERROR
+http://zcontest.com/ -- OK
+https://zcontest.ru -- OK
+https://sub.zcontest-ru.com:8080 -- OK
+http://zcontest.ru/dir%201/dir_2/ -- OK
+zcon.com/index.html#bookmark -- OK
+Just Text. -- ERROR
+http://a.com -- ERROR
+http:// www.domain-.com -- ERROR

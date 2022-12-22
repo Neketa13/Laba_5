@@ -1,0 +1,16 @@
+http://www.zcontest.ru
+http://zcontest.ru
+http://aaa.ddd.zcontest.ru
+http://zcontest.com/
+http://zcontest.c-om/
+http://-zcontest.com/
+http://zco_ntest.com/
+http://zcontest_.com/
+http://zcontest.com/
+https://zcontest.ru
+https://sub.zcontest-ru.com:8080
+http://zcontest.ru/dir%201/dir_2/
+zcon.com/index.html#bookmark
+Just Text.
+http://a.com
+http:// www.domain-.com
